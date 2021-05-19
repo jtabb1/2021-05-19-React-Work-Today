@@ -10,6 +10,10 @@ function App() {
         <p>
           Edit <code>src/App.js</code>!
         </p>
+        <p>
+          My React work today will primarily consist of
+          working on Flatiron assignments.
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
